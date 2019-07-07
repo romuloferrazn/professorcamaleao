@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b95d7"],{3345:function(n,t,c){"use strict";c.r(t);var e=function(){var n=this,t=n.$createElement,c=n._self._c||t;return c("b-container",{staticClass:"contato"},[c("b-row",[c("b-col",[c("h1",[n._v("PAGINA DE CONTATO")])])],1)],1)},o=[],a={name:"contato"},l=a,s=c("2877"),r=Object(s["a"])(l,e,o,!1,null,null,null);t["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0b95d7.5c15d490.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2218df"],{cb9c:function(n,e,o){"use strict";o.r(e);var t=function(){var n=this,e=n.$createElement,o=n._self._c||e;return o("b-container",{staticClass:"metodologia"},[o("b-row",[o("b-col",[o("h1",[n._v("PAGINA DE METODOLOGIA")])])],1)],1)},c=[],a={name:"metodologia"},l=a,s=o("2877"),i=Object(s["a"])(l,t,c,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d2218df.50810da7.js.map
